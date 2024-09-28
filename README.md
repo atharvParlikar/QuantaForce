@@ -19,7 +19,7 @@ A fluid simulation engine written in C++ for Aerodynamics simulations.
    ```
 5. Clone the repository and enter the directory
    ```powershell
-   git clone https://github.com/atharvparliakr/quantaforce.git
+   git clone https://github.com/atharvparlikar/quantaforce.git
    cd quantaforce
    ```
 6. Run following command to build the project (in the root directory)
